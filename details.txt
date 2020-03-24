@@ -1,0 +1,5 @@
+full name: Chukwuoma Chizoba Cynthia
+slack-username: classychizzy
+email-address: chizobachukwuoma@gmail.com 
+Tracks: design, front-end, back-end, coding 
+courses: html, css, javascript, nodejs, figma 
