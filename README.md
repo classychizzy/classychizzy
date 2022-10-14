@@ -1,9 +1,9 @@
 #Hi there i'm Chizoba Chukwuoma :wave: 
 <section>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="100%"/>
+<div id="header" align="right">
+<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="50%"/>
 </div>
-<div id="badges">
+<div id="badges" align="bottom">
 <a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
