@@ -1,7 +1,7 @@
 #Hi there i'm Chizoba Chukwuoma :wave: 
 <section>
 <div id="header" align="center">
-<img src="https://giphy.com/stickers/transparent-rsUGLKwgSvSxmq1VrZ">
+<img src="https://giphy.com/stickers/transparent-rsUGLKwgSvSxmq1VrZ" width="100%"/>
 </div>
 <div id="badges">
 <a href="#">
