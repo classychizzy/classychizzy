@@ -11,9 +11,8 @@ A software Engineer from Nigeria
 - i'm a backend and devops enthusiast :love:
 - :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
 
-<div id="header" align="right">
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="400"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="400"/>
+
 <div id="badges" align="bottom">
 <a href="https://www.linkedin.com/in/chizoba-chukwuoma-317619186/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
