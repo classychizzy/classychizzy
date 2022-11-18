@@ -1,13 +1,17 @@
-# Hi there i'm Chizoba Chukwuoma :wave: 
-## A software Engineer from Nigeria
+Hi there i'm Chizoba Chukwuoma :wave: 
+======================================
+A software Engineer from Nigeria
+---------------------------------
 <p>
   <img src="https://img.shields.io/github/last-commit/classychizzy/classychizzy?color=blue&label=last%20updated&style=flat" />
 </p>
+<section>
+<div align="left">
 - i'm  currently working on completing ALX SE program
 - i'm a backend and devops enthusiast :love:
-- :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript 
+- :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
+</div>
 
-<section>
 <div id="header" align="right">
 <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="50%"/>
 </div>
