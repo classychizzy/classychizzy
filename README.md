@@ -2,6 +2,7 @@ Hi there i'm Chizoba Chukwuoma :wave:
 ======================================
 A software Engineer from Nigeria
 ---------------------------------
+<img align="right" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="400"/>
 <p>
   <img src="https://img.shields.io/github/last-commit/classychizzy/classychizzy?color=blue&label=last%20updated&style=flat" />
 </p>
@@ -10,8 +11,6 @@ A software Engineer from Nigeria
 - i'm  currently working on completing ALX SE program
 - i'm a backend and devops enthusiast :love:
 - :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
-
-<img align="right" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="400"/>
 
 <div id="badges" align="bottom">
 <a href="https://www.linkedin.com/in/chizoba-chukwuoma-317619186/">
