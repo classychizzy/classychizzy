@@ -13,7 +13,7 @@
 
 ### Getting started
 - i'm  currently working on completing ALX SE program
-- i'm a backend and devops enthusiast :love:
+- i'm a backend and devops enthusiast :heart:
 - :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
 
 <div id="badges" align="bottom">
