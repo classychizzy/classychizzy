@@ -12,7 +12,7 @@
 </p>
 
 ### Getting started
-- i'm  currently working on completing ALX SE program
+- I graduated from ALX software Engineering program
 - i'm a backend and devops enthusiast :heart:
 - :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
 
