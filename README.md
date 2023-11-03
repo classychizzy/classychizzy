@@ -13,8 +13,9 @@
 
 ### Getting started
 - I graduated from ALX software Engineering program
+- I'm currently learning cloud computing on AWS educate
 - i'm a backend and devops enthusiast :heart:
-- :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript
+- :woman_technologist: Ask me anything about C, python, mySQL, PostgreSQL, javascript, typescript, AWS, nodeJs, nestJs
 
 <div id="badges" align="bottom">
 <a href="https://www.linkedin.com/in/chizoba-chukwuoma-317619186/">
