@@ -17,14 +17,14 @@ I focus on writing clean, maintainable code and designing systems that are secur
   <img src="https://img.shields.io/github/last-commit/classychizzy/classychizzy?color=blue&label=last%20updated&style=flat" />
 </p>
 
-### what I do
+### 🚀 what I do
 - Build robust backend services using Node.js, TypeScript, and NestJS
 - Design scalable and optimized database schemas (MySQL, TypeORM)
 - Implement secure authentication & authorization systems (JWT, refresh tokens)
 - Develop well-structured RESTful APIs
 - Apply best practices in error handling, logging, and performance optimization.
 
-### Tech Stack
+### 🛠 Tech Stack
 ## Languages
 TypeScript, JavaScript
 ## Backend
@@ -44,8 +44,8 @@ Docker, Git, GitHub, Postman
 - Error Handling
 - Logging & Monitoring
 
-### Featured Projects
-### Task Management API
+### 📌 Featured Projects
+## 🧩 Task Management API
 
 <p> A scalable backend system that allows users to securely manage tasks.
 
@@ -57,7 +57,7 @@ Docker, Git, GitHub, Postman
 <b>Tech: </b> TypeScript, Node.js, TypeORM, MySQL
 </p>
 
-### Inventory Management System
+## 🗃 Inventory Management System
 
 <p>Backend system designed for real-world usage with focus on performance and data integrity.
 
@@ -67,12 +67,12 @@ Docker, Git, GitHub, Postman
 - Improved system reliability through structured debugging
 </p>
 
-### Engineering Approach
+## 💡 Engineering Approach
 - I prioritize clarity, scalability, and maintainability over quick fixes
 - I break down complex problems into structured backend logic
 - I focus on real-world application performance, not just theory
 - I continuously refine my understanding of backend architecture and system design
-## Currently Growing In
+## 📚Currently Growing In
 - Advanced backend architecture (modular & scalable systems)
 - System design fundamentals
 - Performance optimization & caching strategies
